@@ -10,4 +10,3 @@ cd BDICS
 python bdics.py
 ```
 
-
